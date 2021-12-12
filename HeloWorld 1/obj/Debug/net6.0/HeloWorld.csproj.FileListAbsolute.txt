@@ -1,0 +1,15 @@
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\bin\Debug\net6.0\HeloWorld.exe
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\bin\Debug\net6.0\HeloWorld.deps.json
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\bin\Debug\net6.0\HeloWorld.runtimeconfig.json
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\bin\Debug\net6.0\HeloWorld.dll
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\bin\Debug\net6.0\ref\HeloWorld.dll
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\bin\Debug\net6.0\HeloWorld.pdb
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.csproj.AssemblyReference.cache
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.AssemblyInfoInputs.cache
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.AssemblyInfo.cs
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.csproj.CoreCompileInputs.cache
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.dll
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\ref\HeloWorld.dll
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.pdb
+C:\Users\79613\source\repos\HeloWorld\HeloWorld\obj\Debug\net6.0\HeloWorld.genruntimeconfig.cache
